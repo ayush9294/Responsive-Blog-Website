@@ -17,3 +17,18 @@ AS Blog is a sleek and fully responsive blog website designed for bloggers and c
 **CSS3**: Styling and animations, including responsive media queries.
 
 **JavaScript**: Adding interactivity and dynamic features.
+
+
+**Contributing
+**Contributions are welcome! If you'd like to improve AS Blog or add new features, feel free to fork the repository and submit a pull request.
+
+**License
+**This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
+
+Enjoy blogging with AS Blog! 🎉
+
+
+
+
+
+
